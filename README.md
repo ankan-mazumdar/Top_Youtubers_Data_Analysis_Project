@@ -1,6 +1,3 @@
-# Top_Youtubers_Data_Analysis_Project
-Top Youtube creators  End to End Data Analysis Project
-
 # Data Portfolio: Excel to Power BI 
 
 
