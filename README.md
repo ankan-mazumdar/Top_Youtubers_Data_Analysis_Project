@@ -352,7 +352,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_youtubers_2024.mp4)
+![GIF of Power BI Dashboard](assets/images/top_youtubers_2024.gif)
 
 This shows the Top Youtubers in 2024 so far. 
 
